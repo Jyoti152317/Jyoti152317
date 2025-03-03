@@ -1,6 +1,6 @@
-## Hello 👋 I am Km. Jyoti
+##Hey there  I'm Jyoti 
 
-I am a aspiring Front-End Developer with a strong foundation in HTML, CSS, JavaScript, and React, currently pursuing 5 month Frpnt-End development course at Masai School, Benagluru. Aspiring Frontend Developer. Passionate about creating user-friendly web applications.
+#I am a aspiring Front-End Developer with a strong foundation in HTML, CSS, JavaScript, and React, currently pursuing 5 month Frpnt-End development course at Masai School, Benagluru. Aspiring Frontend Developer. Passionate about creating user-friendly web applications.
 
 Here are some ideas to get you started:
 
