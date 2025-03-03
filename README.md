@@ -7,7 +7,7 @@
 - 📫 Reach me at: [Email](mailto:your-email@example.com) | [LinkedIn](https://www.linkedin.com/in/your-profile)
 
 ## 🌐 Portfolio:
-- [Visit My Portfolio](https://your-portfolio-link.com)
+- [Visit My Portfolio]([https://your-portfolio-link.com](https://github.com/Jyoti152317/Portfolio))
 
 ## 🛠 Tech Stack:
 Here are the technologies I’m proficient in:
