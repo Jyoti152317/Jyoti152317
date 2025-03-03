@@ -21,7 +21,7 @@ Here are the technologies I’m proficient in:
 - ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ## 📊 GitHub Stats:
-![Jyoti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Jyoti's GitHub Stats](https://github-readme-stats.vercel.app/api?username[=your-github-username](https://github.com/Jyoti152317/)&show_icons=true&theme=radical)
 
 ## 📬 Contact Me:
 - [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
