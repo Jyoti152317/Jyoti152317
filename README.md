@@ -18,4 +18,4 @@ Here are the technologies I’m proficient in:
 ![Jyoti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jyoti&show_icons=true&theme=radical)
 
 ## 📬 Contact Me:
-- [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)  - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
+- [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-engjyoti18@gmail.com)   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/km-jyoti-462413187/)
